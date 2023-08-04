@@ -1,17 +1,12 @@
-# Welcome to Jarvis
+# Welcome to Jarvis 
 
 For full documentation visit [azure.cn](https://docs.azure.cn).
 
 ## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* `netsh wlan` - Create a new project. 
+* `ifconfig.io` - Start the live-reloading docs server. 
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+fack 
